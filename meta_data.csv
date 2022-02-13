@@ -1,0 +1,13 @@
+id,treatment
+D-1_S4,COPD
+D-2_S5,COPD
+D-3_S6,COPD
+DC-1_S10,COPD_control
+DC-2_S11,COPD_control
+DC-3_S12,COPD_control
+H-1_S7,Healthy
+H-2_S8,Healthy
+H-3_S9,Healthy
+HC-1_S1,Healthy_control
+HC-2_S2,Healthy_control
+HC-3_S3,Healthy_control
